@@ -2,7 +2,7 @@
 
 First clone the repository from Github and switch to the new directory:
 
-    $ git clone https://github.com/graysoncode12/leads-backend
+    $ git clone
     $ cd leads-backend
 
 
@@ -45,8 +45,8 @@ First we’ll need to create a user who can login to the admin site. Run the fol
 
 Username: admin<br/>
 Email address: admin@example.com<br/>
-Password: admin<br/>
-Password (again): admin<br/>
+Password: *****<br/>
+Password (again): *****<br/>
 
 
 # Creating a decision tree question as admin
