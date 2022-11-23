@@ -1,0 +1,12 @@
+Django
+djangorestframework
+pandas
+psycopg2
+python-dotenv
+django-cors-headers
+gunicorn
+numpy
+scipy
+sentence-transformers
+tabloo
+openpyxl
